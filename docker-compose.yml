@@ -1,0 +1,8 @@
+version: "3.0"
+services:
+  haveichanged:
+    image: codebarbarian/haveichanged:latest
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./data.txt:/app/data.txt
