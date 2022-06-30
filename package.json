@@ -24,7 +24,7 @@
   "dependencies": {
     "chokidar": "^3.5.2",
     "express": "^4.17.2",
-    "fs": "^0.0.1-security",
+    "fs": "^0.0.2",
     "log-timestamp": "^0.3.0",
     "md5": "^2.3.0",
     "nodemon": "^2.0.15"
