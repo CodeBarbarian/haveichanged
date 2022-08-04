@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/CodeBarbarian/haveichanged#readme",
   "dependencies": {
-    "chokidar": "^3.5.2",
+    "chokidar": "^3.5.3",
     "express": "^4.17.2",
     "fs": "^0.0.1-security",
     "log-timestamp": "^0.3.0",
