@@ -27,6 +27,6 @@
     "fs": "^0.0.1-security",
     "log-timestamp": "^0.3.0",
     "md5": "^2.3.0",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.16"
   }
 }
